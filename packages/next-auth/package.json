@@ -1,6 +1,6 @@
 {
   "name": "next-auth",
-  "version": "4.10.3-lock",
+  "version": "4.10.3-lock-node-18",
   "description": "Authentication for Next.js",
   "homepage": "https://next-auth.js.org",
   "repository": "https://github.com/nextauthjs/next-auth.git",
@@ -125,7 +125,7 @@
     "whatwg-fetch": "^3.6.2"
   },
   "engines": {
-    "node": "^12.19.0 || ^14.15.0 || ^16.13.0"
+    "node": "^12.19.0 || ^14.15.0 || ^16.13.0 || ^18.17.0"
   },
   "eslintConfig": {
     "parserOptions": {
